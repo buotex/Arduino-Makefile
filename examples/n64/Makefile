@@ -1,0 +1,7 @@
+BOARD_TAG = uno
+MONITOR_BAUDRATE = 9600
+MONITOR_PORT = /dev/ttyACM0
+OPTIMIZATION_LEVEL = 3
+
+include ../../Arduino.mk
+
